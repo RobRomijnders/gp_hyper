@@ -25,7 +25,7 @@ This kernel has two hyperparameters:
 
 Changing the hyperparameters and plotting the log likelihood on the validation data gives the following diagram:
 
-![image](https://www.google.nl/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjJz7KAir3cAhUDjqQKHRZaDIAQjRx6BAgBEAU&url=http%3A%2F%2Fdragonballfanon.wikia.com%2Fwiki%2FFile%3ARandom.png&psig=AOvVaw2PYrEE6379K6w8BOS6tNDh&ust=1532705213052023)
+![image](https://github.com/RobRomijnders/gp_hyper/blob/master/gp_hyper/im/contour_plot_dense.png?raw=true)
 
 As always, I am curious to any comments and questions. Reach me at romijndersrob@gmail.com
 
